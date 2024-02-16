@@ -22,9 +22,9 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <a href="https://twitter.com/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_frzgunr?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_frzgunr"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/Frzgunr1/Frzgunr1"> <img alt="frzgunr github" src="https://badges.pufler.dev/visits/Frzgunr1/Frzgunr1"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=Frzgunr1.Frzgunr1"> <img alt="frzgunr joshi github" src="https://visitor-badge.glitch.me/badge?page_id=Frzgunr1.Frzgunr1"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=Frzgunr1.Frzgunr1"> <img alt="frzgunr github" src="https://visitor-badge.glitch.me/badge?page_id=Frzgunr1.Frzgunr1"> </a>
  </p>
  
  <h5 align="center">
